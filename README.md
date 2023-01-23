@@ -18,9 +18,9 @@ I advocate for open source and am working to actively contribute to projects.
 
 ## Talks, etc.
 
-[Compliance as Code - from upstream to ops](https://csrc.nist.gov/csrc/media/Presentations/2022/oscal-mini-workshop-6-DoD_P1/images-media/PlatformOne-DefenseUnicirn-202210-13-2022-HD.mp4) at NIST mini-workshops
-[Path to Production: Sustainable Compliance in Strict Environments](https://youtu.be/1tivKIprMsw) at KubeCon NA 2022 w/ Chip Zoller
-[Compliance and Compliance Automation](https://youtu.be/eJDCLCAj0kw) at DevSecOps for Government Virtual Event
+- [Compliance as Code - from upstream to ops](https://csrc.nist.gov/csrc/media/Presentations/2022/oscal-mini-workshop-6-DoD_P1/images-media/PlatformOne-DefenseUnicirn-202210-13-2022-HD.mp4) at NIST mini-workshops
+- [Path to Production: Sustainable Compliance in Strict Environments](https://youtu.be/1tivKIprMsw) at KubeCon NA 2022 w/ Chip Zoller
+- [Compliance and Compliance Automation](https://youtu.be/eJDCLCAj0kw) at DevSecOps for Government Virtual Event
 
 
 ## Hobbies
