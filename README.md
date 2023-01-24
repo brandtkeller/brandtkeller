@@ -9,7 +9,7 @@ I advocate for open source and am working to actively contribute to projects.
     - OSCAL
     - Compliance
     - Event-driven Systems
-- 👯 I’m looking to collaborate on securing, attestestion and provenance around kubernetes workload compliance.
+- 👯 I’m looking to collaborate on securing, attestation and provenance around kubernetes workload compliance.
 - 💬 Ask me about #airgap, 
 - 📫 How to reach me:
     - [Twitter](https://twitter.com/brandtkeller)
@@ -28,8 +28,8 @@ Outside of Software and Open Source contributions, I enjoy a variety of other ac
 
 ### Literature
 I attempt to split my progress on reading books into two categories - current reading list:
-- Personal development: Extreme Ownership - Jocko Willink/Leif Babin
-- Sci-Fi: The Witcher
+- Professional development: Extreme Ownership - Jocko Willink/Leif Babin
+- Personal fun: The Witcher
 
 ### Fitness
 Follow me on [Strava](strava.com) for my cycling progress.
