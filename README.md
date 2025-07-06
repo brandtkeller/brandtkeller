@@ -1,15 +1,11 @@
 ## Hi there 👋
 
-I'm a Software Engineer at [Defense Unicorns](defenseunicorns.com). I enjoy everything Kubernetes and building solutions for secure and compliant environments. 
+I'm a Software Engineer at [Defense Unicorns](defenseunicorns.com). I enjoy everything Kubernetes and building solutions that solve for real and meaningful missions.
 
-I advocate for open source and am working to actively contribute to projects. 
+I advocate for open source and am working to actively contribute to projects and core functionality that drives improvements for underrepresented use-cases.  
 
-- 🔭 I’m currently working on [Lula](https://github.com/defenseunicorns/lula) for Continuous Compliance
-- 🌱 I’m currently learning:
-    - OSCAL
-    - Compliance
-    - Event-driven Systems
-- 👯 I’m looking to collaborate on securing, attestation and provenance around kubernetes workload compliance.
+- 🔭 I’m currently working on [Zarf](https://github.com/zarf-dev/zarf) for Secure Software Delivery - from connected to disconnected.
+- 👯 I’m looking to collaborate on securing, attestation and provenance around kubernetes workloads.
 - 💬 Ask me about #airgap, 
 - 📫 How to reach me:
     - [Twitter](https://twitter.com/brandtkeller)
@@ -18,18 +14,16 @@ I advocate for open source and am working to actively contribute to projects.
 
 ## Talks, etc.
 
-- [Compliance as Code - from upstream to ops](https://csrc.nist.gov/csrc/media/Presentations/2022/oscal-mini-workshop-6-DoD_P1/images-media/PlatformOne-DefenseUnicirn-202210-13-2022-HD.mp4) at NIST mini-workshops
-- [Path to Production: Sustainable Compliance in Strict Environments](https://youtu.be/1tivKIprMsw) at KubeCon NA 2022 w/ Chip Zoller
-- [Compliance and Compliance Automation](https://youtu.be/eJDCLCAj0kw) at DevSecOps for Government Virtual Event
+See my [OpenProfile.dev](https://openprofile.dev/profile/brandt.w.keller) profile for information on my past talks. 
 
 
 ## Hobbies
-Outside of Software and Open Source contributions, I enjoy a variety of other activities.
+Outside of Software and Open Source contributions, I enjoy a variety of other activities. I am an active Volunteer Ground Search and Rescue responder for Snohomish County Volunteer Search and Rescue. 
 
 ### Literature
 I attempt to split my progress on reading books into two categories - current reading list:
 - Professional development: Extreme Ownership - Jocko Willink/Leif Babin
-- Personal fun: The Witcher
+- Personal fun: Oathbringer - Stormlight Archives Book 3 - Brandon Sanderson
 
 ### Fitness
 Follow me on [Strava](strava.com) for my cycling progress.
